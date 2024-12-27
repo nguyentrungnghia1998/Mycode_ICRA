@@ -1,0 +1,51 @@
+audio,labeled_text,predict_text,WER,fix_labeled_text,new_WER
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28933/chunk_out_1.wav,à vâng vâng vâng vâng vâng,à vâng vâng âng âng vâng,0.3333333333333333,à vâng vâng vâng vâng vâng,0.3333333333333333
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28569/chunk_out_1.wav,ờ anh đi lấy cái đơn tiktok đơn chăn em đặt nhầm đấy ,ơ anh delay cái đơn tích tóc áđơn trăn đặt nhầm ấy,0.6153846153846154,ờ anh đi lấy cái đơn tiktok đơn chăn em đặt nhầm đấy ,0.6153846153846154
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27982/chunk_out_5.wav,vâng,vâng,0.0,vâng,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28485/chunk_in_3.wav,ừ ừ ừ nhá,ừ ừ hế nhỉ,0.5,ừ ừ nhá,0.6666666666666666
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29303/chunk_out_1.wav,chị ơi cái đơn có đơn hàng lần trước em giao chị chị có lấy không chị ạ,chị ơi cái đơn đ có đơn hàng lần trước em giào chị chị có lấy không nhhở,0.2222222222222222,chị ơi cái đơn dơn có đơn hàng lần trước em giao chị chị có lấy không nhở,0.16666666666666666
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27983/chunk_out_1.wav,cái xịt mối hay sao ý chị ơi,ái sit là muối hsao chị ơi,0.75,cái xịt mối sao ý chị ơi,0.7142857142857143
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27998/chunk_out_3.wav,triệu mấy đây này,b chiều mấy y nà,1.0,triệu mấy đây này,1.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27932/chunk_out_4.wav,vâng vâng,vâng vâng,0.0,vâng vâng,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29345/chunk_in_2.wav,đi làm rồi,đi làm rồi,0.0,đi làm rồi,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29173/chunk_in_2.wav,giao hàng à,sáu bang à,0.6666666666666666,giao hàng à,0.6666666666666666
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29307/chunk_out_2.wav,alo,ừ,1.0,ừ,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28136/chunk_in_0.wav,alo,alo,0.0,alo,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28179/chunk_in_2.wav,đơn đấy chỗ chỗ nào nhờ,chn tấn ở s này shỗ nào đị ạ,1.3333333333333333,đơn đấy ở chỗ là chỗ nào nhở,0.875
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28527/chunk_in_4.wav,đúng rồi đấy nhá nhưng mà đi đi từ ngã tư vào khoảng độ năm sáu mươi mét thôi nhá,đơn đấy nhá nhưng mà đi đi từ ngã tư vào khoảng độnăm sáu nghìn mapp thôi nhá,0.3,đúng rồi đấy nhá nhưng mà đi đi từ ngã tư vào khoảng độ năm sáu mươi mét thôi nhá,0.3
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29246/chunk_out_3.wav,bên em không giao tối đâu em đang check đơn xem mai mình nhận lúc nào trong giờ hành chính ý ạ,bên em không giao tối đâu em đang check đơn xem mai mình nhận lúc nào trong giờ hành chính ấy ạ,0.045454545454545456,bên em không giao tối đâu em đang check đơn xem mai mình nhận lúc nào trong giờ hành chính ý ạ,0.045454545454545456
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28423/chunk_out_5.wav,bác ra cổng đi cháu đầu ngõ này,bbắc lã tổng đi ảu đầu ngõ này,0.5,bác ra cổng đi cháu đầu ngõ này,0.5
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28186/chunk_out_0.wav,em giao đơn laptop một trăm mười hai tổ mười tám ý anh có nhà nhận hàng không ạ,cái giao đơn lapp top và một trăm mười hai tổn mười tám ýy anh có nhà nhận hàng không ạ,0.3157894736842105,em giao đơn laptop về một trăm mười hai tổ mười tám ý anh có nhà nhận hàng không ạ,0.3
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27982/chunk_in_2.wav,ừ em cứ giao đi,ừ em cứ giao đi,0.0,ừ em cứ giao đi,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29105/chunk_out_1.wav,xóm mới đây,ân bấn,1.0,xóm mới đây,1.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28276/chunk_out_3.wav,vâng,vâng,0.0,vâng,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28975/chunk_in_3.wav,thì à số tài khoản chị chuyển khoản nhá,hủy cc khoản chị chuyển khoản nhá,0.4444444444444444,thì à số tài khoản chị chuyển khoản nhá,0.4444444444444444
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29033/chunk_in_1.wav,thế thế anh giao cho em à ,thế thế anh giao cho em à,0.0,thế thế anh giao cho em à ,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28078/chunk_in_1.wav,rồi em đến chưa,đng rồi em đến chưa,0.25,rồi em đến chưa,0.25
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28674/chunk_out_1.wav,cháu gửi đơn hàng đó rồi,né gửi đơn hàng quá rồi,0.3333333333333333,cháu gửi đơn hàng đó rồi,0.3333333333333333
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27858/chunk_out_3.wav,em đang cổng chỗ là ấy chỗ chỗ chỉ thi bảo vệ này anh lấy hộ em với,en đang cổmg chỗ à đấy chỗ chỗ chị phí bảo vệ đây anh lấy hộ em với,0.3888888888888889,em đang cổng chỗ là ấy chỗ chỗ chị thuý bảo vệ đây anh lấy hộ em với,0.2777777777777778
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27918/chunk_in_12.wav,ờ ờ hàng đào đúng rồi ừ thế rồi em cứ vứt vào trong nhà cho chị à,ừ ừ hàng đào đúng rồi ừ thế thì em cứ vướt vào trong nhau cho chị,0.3333333333333333,ờ ờ hàng đào đúng rồi ừ thế thì em cứ vứt vào trong nhà cho chị,0.23529411764705882
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28664/chunk_in_13.wav,không không nó ở nhà em ở ngay mặt đường đối diện cái nhà ở cái nhà một cái cổng có cổng một hai cái nhà to đùng,không không đâunhà em ở ngay bặn đường thôi đối diện cởi nhà ở cái nhà ổng qcổng hai cái nhà  a đúng,0.5,không không nó ở nhà em ở ngay mặt đường thôi đối diện cái nhà ở cái nhà một cái cổng có cái cổng mà hai cái nhà to đùng,0.4666666666666667
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29351/chunk_in_4.wav,cái gì đấy anh nhờ,cái gì đấy anh nhở,0.2,cái gì đấy anh nhở,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27985/chunk_in_3.wav,nhá,nhá,0.0,nhá,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28664/chunk_in_15.wav,không có cả,sao cái,1.0,sao cái,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28432/chunk_out_2.wav,ở chỗ thôn hai ý,ở chỗ thôn hai ý,0.0,ở chỗ thôn hai ý,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29111/chunk_out_7.wav,ô kê ô kê ô kê em biết rôi ô kê để em gọi,ô kê ô kê ô kê với t ô kê vậy,0.42857142857142855,ô kê ô kê ô kê biết rôi ô kê ô kê để em gọi,0.4666666666666667
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28026/chunk_out_5.wav,là đi đến cái miếu vào ngó đường của cái miếu ở đầu ngó,tức là đi đến cái miếu và hgõd đương có cái miếu ở đầu ngõ,0.42857142857142855,là đi đến cái miếu vào ngõ đường của cái miếu ở đầu ngõ,0.35714285714285715
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28430/chunk_out_3.wav,à,vâng,1.0,vâng,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28039/chunk_in_2.wav,chiều như cấp đi hoặc dự bị ,chiều thưn cấp vỹ vào chẩn bị,0.5714285714285714,chiều như cấp đi hoặc dự bị ,0.5714285714285714
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27923/chunk_in_0.wav,alo,alo,0.0,alo,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28208/chunk_out_4.wav,vâng vâng,vâng vâng,0.0,vâng vâng,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28158/chunk_out_0.wav,em về chưa nhở anh đang ở cổng đấy,ế vớ về chu nhở anhình đang đở cổmg đ đây,0.8888888888888888,em về chưa nhở anh đang ở cổng đây,0.7777777777777778
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27794/chunk_out_1.wav,chị trang ơi chị có đơn bộ thun ba hai đồng này chị có nhận được không ,chị trả ới chị có đơn bộ phil đan hai đầu này chị có nhận được không,0.29411764705882354,chị trang ơi chị có đơn bộ thun ba hai đồng này chị có nhận được không ,0.29411764705882354
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28779/chunk_out_5.wav,mười chín ạ,mười chín ạ,0.0,mười chín ạ,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28159/chunk_out_2.wav,cô có nhà không ạ cháu giao đơn hai kẹp tóc đây ạ,cô ở nhà ang chéu giao đơn hay kẻm tóc vậy ạ,0.5384615384615384,cô có nhà không cháu giao đơn hai kẹp tóc với ạ,0.5
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28629/chunk_in_13.wav,thế nhá,nh nhá,0.5,thế nhá,0.5
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29339/chunk_out_2.wav,rồi cháu đang vào nhà chú đây,rồi chắn đang gọi là chú thôi,0.5714285714285714,rồi cháu đang vào nhà chú đây,0.5714285714285714
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28825/chunk_out_1.wav,chiều anh mới về hả anh,rồi như vậy anh,0.8333333333333334,chiều anh mới về hả anh,0.8333333333333334
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27613/chunk_out_3.wav,dạ vâng vào chỗ quầy kính đấy à,đượcvào chỗ bầy kình ấy ạ,0.875,được vào chỗ quầy kính đấy à,0.8571428571428571
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27661/chunk_in_0.wav,alo,alo,0.0,alo,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/29397/chunk_out_1.wav,giờ em lên hàng có chưa,em lên làmv c,0.6666666666666666,giờ em lên hàng có chưa,0.6666666666666666
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27804/chunk_in_0.wav,alo,c,1.0,alo,1.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/27911/chunk_in_5.wav,ấy đoàn,đấy đàn,1.0,đấy đàn,0.0
+/home/jovyan/ai-core/speech_to_text/data/ghtk/test/voice_split/28208/chunk_out_9.wav,à ngõ đấy ,chảg ngõ en,0.6666666666666666,à ngõ ấy em đây,0.8
